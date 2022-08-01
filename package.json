@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp build",
-    "start": "gulp"
+    "start": "node gulpfile.js"
   },
   "dependencies": {
     "browser-sync": "^2.27.10",
