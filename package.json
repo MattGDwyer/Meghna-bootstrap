@@ -7,8 +7,7 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp build",
-    "start": "node run build",
-    "heroku-postbuild": "node theme/js/script.js"
+    "start": "node run build"
 
   },
   "dependencies": {
