@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp build",
-    "start": "node source/js/script.js",
+    "start": "node app",
     "postinstall": "gulp default"
 
   },
