@@ -1,1 +1,1 @@
-web: node source/js/script.js
+web: node node_modules/gulp/bin/gulp.js; cd theme; node js/script.js
