@@ -6,6 +6,7 @@ var PORT = process.env.PORT || 3000;
 
 app.get("/", function(req, res) {
   res.sendFile(__dirname + "/theme/index.html");
+  res.sendFile(__dirname + "/theme/css/style.css")
   }
 );
 
