@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp build",
-    "start": "node theme/js/script.js"
+    "start": "node gulpfile.js"
 
   },
   "dependencies": {
