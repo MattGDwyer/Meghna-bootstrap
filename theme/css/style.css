@@ -496,12 +496,6 @@ a:hover {
 .logo {
   margin-top: 10px;
   display: inline-block;
-
-}
-
-.logo-img {
-  width: 40px!important;
-  height: 40px!important;
 }
 
 .single-page-header {
@@ -567,7 +561,7 @@ a:hover {
 }
 
 .bg-1 {
-  background-image: url("../images/wall-2.jpg");
+  background-image: url("../images/backgrounds/bg-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -770,7 +764,7 @@ a:hover {
 ==================================================================*/
 .call-to-action-2 {
   padding: 100px 0;
-  background-image: url("../images/wall-2933017_1920.jpeg");
+  background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
   color: #fff;
 }
