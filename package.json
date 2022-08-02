@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp build",
-    "start": "node run build"
+    "start": "node source/js/script.js"
 
   },
   "dependencies": {
