@@ -1,7 +1,13 @@
 # Meghna By Themefisher
 
 Meghna is a free responsive one-page business template built with HTML5/CSS3, JavaScript and JQuery. The HTML template is minimalist, lightweight and fast loading, and has been shipped wrapping the latest technologies and awesome design trends.
-
+<!-- MY NOTES -->
+potentially need ot install gulp buildpack for heroku cli
+also need express
+So we will copy and paste back to original state
+then install express
+make a server.js file
+see where we are at there.
 <!-- demo -->
 ## Example Site
 
